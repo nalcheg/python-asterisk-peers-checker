@@ -1,0 +1,6 @@
+#!/usr/bin/python
+dbhost = ""
+dbuser = ""
+dbpassword = ""
+dbname = ""
+
